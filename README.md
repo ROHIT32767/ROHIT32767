@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit32767" alt="Rohit Gowlapalli"/> </p>
 
 
-- 🔭 I’m currently learning how to develop applications for scale.
+- 🔭 I’m currently learning to develop applications for scale.
 - ✨ My last project [Image Annotation Toolbox](https://github.com/rohit32767/Image-Annotation-ToolBox).
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rohit-gowlapalli-335b3425a/).
+- 📫 Contact Me: [Linkedin](https://www.linkedin.com/in/rohit-gowlapalli-335b3425a/).
 
 # Github Activity📊:
 <p align="center">
@@ -38,7 +38,7 @@
 
 </div>
 
-<h2>📫 Reach out me:</h2>
+<h2>📫 Reach out to me:</h2>
 <div align="center">
 
 <a href="mailto:WriteTo@rohitgowlapalli01@gmail.com">![WriteTo@rohitgowlapalli01@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a  href="https://github.com/rohit32767">![Twitter](https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white)</a> <a  href="https://www.linkedin.com/in/rohit-gowlapalli-335b3425a/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
