@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit32767" alt="Rohit Gowlapalli"/> </p>
 
 
-### Some more about me
-
 - 🔭 I’m currently learning how to develop applications for scale.
 - ✨ My last project [Image Annotation Toolbox](https://github.com/rohit32767/Image-Annotation-ToolBox).
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rohit-gowlapalli-335b3425a/).
